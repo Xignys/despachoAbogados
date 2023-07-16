@@ -42,7 +42,7 @@ a:focus {
     width: 100%;
     max-width: 1366px;
     margin: 0 auto;
-    background: #000000;
+    background: #3d3d3d;
 }
 
 .back-to-top {
@@ -1651,7 +1651,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    padding-top: 180px;
+    padding-top: 3rem;
     background: #121518;
     color: #ffffff;
 }

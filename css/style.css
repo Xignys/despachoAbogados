@@ -33,6 +33,10 @@ a:focus {
     text-decoration: none;
 }
 
+.btnf{
+    justify-content: center;
+}
+
 .btn:focus {
     box-shadow: none;
 }
@@ -1777,4 +1781,8 @@ a:focus {
         margin: 5px 0;
         text-align: center;
     }
+}
+
+.form-color {
+    background-color: #d3d3d3;
 }
